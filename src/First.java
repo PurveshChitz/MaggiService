@@ -2,7 +2,7 @@ class First
 {
     public static void Main()
     {
-        System.ot.println("Hi");
+        System.ot.println("Bye");
     }
 
 
